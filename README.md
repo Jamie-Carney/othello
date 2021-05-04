@@ -1,0 +1,2 @@
+# othello
+C program Othello
